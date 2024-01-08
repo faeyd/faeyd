@@ -3,7 +3,8 @@
 ✨ Some development history and information:
 
 🔬 Programming + Styling Languages and Tools:
-Python  CSS  HTML  Visual Studio Code  SQLite
+
+https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg  [CSS](https://github.com/devicons/devicon/raw/master/icons/css3/css3-plain-wordmark.svg)  [HTML](https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg)  [Visual Studio Code](https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg)  [SQLite](https://github.com/devicons/devicon/raw/master/icons/sqlite/sqlite-original.svg)
 
 🔎 Currently Learning:
 Lua  JavaScript  Mojo  
