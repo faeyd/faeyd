@@ -4,7 +4,7 @@
 
 🔬 Programming + Styling Languages and Tools:
 
-https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg  [CSS](https://github.com/devicons/devicon/raw/master/icons/css3/css3-plain-wordmark.svg)  [HTML](https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg)  [Visual Studio Code](https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg)  [SQLite](https://github.com/devicons/devicon/raw/master/icons/sqlite/sqlite-original.svg)
+https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg
 
 🔎 Currently Learning:
 Lua  JavaScript  Mojo  
